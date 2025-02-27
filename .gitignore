@@ -1,12 +1,12 @@
 # Ignore virtual environments
-venv/
+**/venv/
 .venv/
 env/
 ENV/
 *.venv/
 
 # Ignore Python cache and build artifacts
-__pycache__/
+**/__pycache__/
 *.pyc
 *.pyo
 *.pyd
