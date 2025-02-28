@@ -1,4 +1,4 @@
-from wc import ccwc, __app_name__
+from ccwc import ccwc, __app_name__
 
 def main():
     ccwc.app(prog_name=__app_name__)
